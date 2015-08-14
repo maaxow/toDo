@@ -1,3 +1,6 @@
 Dashboard :
 
+
+
 - $interval(functionToExecute, nbMilliseconds)
+- create module for time and use $interval

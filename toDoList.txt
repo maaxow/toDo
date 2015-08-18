@@ -4,3 +4,4 @@ Dashboard :
 
 - $interval(functionToExecute, nbMilliseconds)
 - create module for time and use $interval
+- button + on the divider, with large divider red (?)
